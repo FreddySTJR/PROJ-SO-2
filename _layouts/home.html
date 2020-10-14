@@ -43,10 +43,10 @@ title: Home
 <div class = "paginator">
     {% if paginator.total_pages > 1 %}
     {% if paginator.previous_page %}
-    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | relative_url }}">SIGUENTE PAGINA</a>
+    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | relative_url }}">ANTERIOR PAGINA</a>
   {% endif %}
   {% if paginator.next_page %}
-     <a class = "older paginate-button" href="{{ paginator.next_page_path | relative_url }}">ANTERIOR PAGINA</a>
+     <a class = "older paginate-button" href="{{ paginator.next_page_path | relative_url }}">SIGUENTE PAGINA</a>
   {% endif %}
   {% endif %}
 </div>
