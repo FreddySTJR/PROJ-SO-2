@@ -1,11 +1,11 @@
 # Site settings
-title: YAMT
-description: "Yet Another Minimal Theme"
-url:  "https://yamt.netlify.app" # Actual base url of the website
+title: LOMBARDO'S BAR-RESTAURANTE 
+description: "Yet Another Minimal"
+url:  "https://freddystjr.github.io/PROJ-SO-2" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
+  name: "FREDDY MOSQUERA"
+  email: "Alexby2500@gmail.com"
   url: "https://alessiofranceschi.me"
 permalink: /:year/:month/:day/:title:output_ext
 
@@ -27,8 +27,8 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
+    - https://twitter.com/freddystrappy
+    - https://github.com/FreddySTJR
     - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
   google: 
