@@ -7,4 +7,3 @@ social:
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/freddystrappy'}
   
   - {icon: 'envelope', type: "solid", link: 'mailto:Alexby2500@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
