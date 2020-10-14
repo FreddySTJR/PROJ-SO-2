@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: MISION
 layout: post
 categories: [Tips, Markdown]
 image: /assets/img/oranges.jpg
