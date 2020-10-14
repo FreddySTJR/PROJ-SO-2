@@ -1,5 +1,5 @@
 ---
-title: Special Formatting
+title: VISION
 layout: post
 categories: [Tips, Markdown, Typography]
 image: /assets/img/forest-snow.jpg
