@@ -1,5 +1,5 @@
 # Site settings
-title: LOMBARDO'S BAR-RESTAURANTE
+title: LOMBARDO'S RESTAURANTE-BAR
 description: LOS MEJORES ALIMENTOS 
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
