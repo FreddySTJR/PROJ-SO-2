@@ -3,8 +3,8 @@ title: SEGURIDAD
 layout: post
 categories: [Typography, Markdown]
 image: /assets/img/seguridad.jpg
-description: "Basic typography and styling for your posts."
-customexcerpt: "Basic and advanced typography in YAMT."
+description: "MEDIDAD DE SEGURIDAD POR COVID"
+customexcerpt: "MEDIDAD DE SEGURIDAD POR COVID"
 ---
 Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-on-github).
 
