@@ -1,5 +1,5 @@
 ---
-title: This is YAMT!
+title: LOMBARDO'S
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
