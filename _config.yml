@@ -1,8 +1,6 @@
 # Site settings
 title: LOMBARDO'S BAR-RESTAURANTE 
 description: "Yet Another Minimal" hola
-url:  "" # Actual base url of the website
-baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "FREDDY MOSQUERA"
   email: "Alexby2500@gmail.com"
