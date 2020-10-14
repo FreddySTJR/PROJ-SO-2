@@ -3,27 +3,33 @@ title: LOMBARDO'S
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+description: "DAMOS LA BIENVENIDA A NUESTRO SERVICIO DE RESTAURANTE-BAR
+TENEMOS TANTO POR OFRECER PARA LA COMODIDAD DEL CLIENTE PARA QUE SU ESTADIA SEA ALGO UNICO EN NUESTROS SERVICIOS, CONTAMOS CON:"
 ---
 
-Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
+# LOMBARDO'S
 
-* hello
-{:toc}
+DAMOS LA BIENVENIDA A NUESTRO SERVICIO DE RESTAURANTE-BAR
+TENEMOS TANTO POR OFRECER PARA LA COMODIDAD DEL CLIENTE PARA QUE SU ESTADIA SEA ALGO UNICO EN NUESTROS SERVICIOS, CONTAMOS CON:
 
-## Features 
-- Minimal and clean design.
-- Fully modular: activate and load only what you really need.
-- Works great on mobile and smaller screens.
-- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
-- [Google Analytics](https://www.google.com/analytics/) support.
-- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
-- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
-- [RSS](https://github.com/jekyll/jekyll-feed) support.
-- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
+LOS MEJORES SERVICIOS A LA MESA:
 
-## Installation
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#installation).
+### 1. Tipo de servicio a la inglesa
+### 2. Tipo de servicio a la francesa
+### 3. Tipo de servicio Gueridón o rusa
+### 4. Tipo de servicios emplatado o americana
 
-## Customization
-[Read here](https://github.com/PandaSekh/Jekyll-YAMT#customize).
+
+Entre otras cosas, tenemos mucho que ofrecer puede pasar por nuestra pagina web y conocernos mas a profundo tenemos todo documentado entre ello
+-SEGURIDAD
+
+-FACILIDAD DE PAGO
+
+-HORARIO Y MENU
+
+-ORIGNES
+
+-VISION Y MISION
+
+
+## ESPERO DISFRUTE DE NUESTRO SERVICIO Y GRACIAS POR DARNOS SU CONFIANZA
