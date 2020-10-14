@@ -1,7 +1,7 @@
 # Site settings
 title: LOMBARDO'S BAR-RESTAURANTE
 description: LOS MEJORES ALIMENTOS 
-url:  "https://yamt.netlify.app" # Actual base url of the website
+url:  https://freddystjr.github.io/PROJ-SO-2/ # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: FREDDY MOSQUERA
