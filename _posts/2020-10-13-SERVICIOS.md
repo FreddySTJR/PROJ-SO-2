@@ -27,7 +27,7 @@ Y ahora sí, vamos a ir enumerando los tipos de servicios para restaurantes y ex
 ## 1. Tipo de servicio a la inglesa
 El servicio a la inglesa consiste en ir llenando los platos de los comensales el camarero designado a tal fin o el responsable de sala.
 
-## 2 Tipo de servicio a la francesa
+## 2. Tipo de servicio a la francesa
 En el servicio a la francesa es el propio comensal el que se sirve. Se muestra a la izquierda del comensal una fuente con los ingredientes y es el propio comensal quien elige la cantidad que debe llevar su plato. Se debe proporcionar una cuchara y un tenedor trinchero aparte del que tenga el comensal para que los use en forma de pinza.
 
 ## 3. Tipo de servicio Gueridón o rusa
